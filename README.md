@@ -20,6 +20,9 @@ https://msclm.info/#/register?code=PdpguJZF
 
 *基本无政治类审计
 
+![3CB3672A-985C-4EE6-9B7E-CF8FCB98F97C](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/344fa154-9725-4395-90bf-8efcc29eb8dc)
+
+
 ### 2.mesl
 
 https://in.mesl.cloud/#/register?code=emOfdhxB
@@ -37,6 +40,8 @@ premium为IPLC+BGP，100G每月，价格最低26，限速2Gbps
 meta较贵，相比前二者多了公有云专线，200G每月，价格最低75，限速2Gbps
 
 *审计：BT，360，轮系
+![40D61794-8291-4895-AF9B-473C5ACAED9C](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/a1591a1c-c0e1-4136-9e49-fa9e66e47ab1)
+
 
 ###3.泡泡狗paopaodog
 
@@ -45,6 +50,7 @@ https://www.paopao.dog/#/register?code=Ix3sY2Ld
 月最低7元/70G，和其他套餐节点数量无任何差别，不限速，IPLC专线。流媒体解锁良好，延迟低，特殊节点无审计
 
 *审计：普通节点屏蔽纽约时报、法广、轮媒、voa、rfa、pincong, 特殊节点不屏蔽
+![6ABA5173-195A-4274-A690-C1ADB99233E6](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/a93abf42-6fa4-4882-a640-fd831419ad18)
 
 <!--
 **Freewallless/Freewallless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
