@@ -19,8 +19,8 @@ https://msclm.info/#/register?code=PdpguJZF
 大部分节点解锁chatgpt
 
 *基本无政治类审计
+![21B24638-8B23-4482-BB05-6228BE3BBF4F](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/46da908a-602d-4323-9ede-c19985ed8390)
 
-![3CB3672A-985C-4EE6-9B7E-CF8FCB98F97C](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/344fa154-9725-4395-90bf-8efcc29eb8dc)
 
 
 ### 2.mesl
@@ -40,7 +40,8 @@ premium为IPLC+BGP，100G每月，价格最低26，限速2Gbps
 meta较贵，相比前二者多了公有云专线，200G每月，价格最低75，限速2Gbps
 
 *审计：BT，360，轮系
-![40D61794-8291-4895-AF9B-473C5ACAED9C](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/a1591a1c-c0e1-4136-9e49-fa9e66e47ab1)
+
+![BD52C66E-1E40-48EF-BE84-C4F3EB9A26A9](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/f0c428be-0586-4f33-b128-a789c3878591)
 
 
 ###3.泡泡狗paopaodog
