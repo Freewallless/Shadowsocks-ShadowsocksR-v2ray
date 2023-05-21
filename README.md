@@ -40,12 +40,9 @@ premium为IPLC+BGP，100G每月，价格最低26，限速2Gbps
 meta较贵，相比前二者多了公有云专线，200G每月，价格最低75，限速2Gbps
 
 *审计：BT，360，轮系
+![48B72044-246D-4BF1-9505-A8543D7BE57F](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/776ae84a-0708-4222-8b2f-cf95d8b03f65)
 
-
-
-### 3.泡泡狗paopaodog![48B72044-246D-4BF1-9505-A8543D7BE57F](https://github.com/Freewallless/Shadowsocks-ShadowsocksR-v2ray/assets/134179361/776ae84a-0708-4222-8b2f-cf95d8b03f65)
-
-
+### 3.泡泡狗paopaodog
 https://www.paopao.dog/#/register?code=Ix3sY2Ld
 
 月最低7元/70G，和其他套餐节点数量无任何差别，不限速，IPLC专线。流媒体解锁良好，延迟低，特殊节点无审计
